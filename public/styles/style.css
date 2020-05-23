@@ -1,13 +1,28 @@
 h1{
+    font-weight: bold;
+    font-size: 2cm;
+    text-decoration: underline;
     text-align: center;
-}
+    }
 
 p{
-    text-align: left;
-}
+    font-family: serif; 
+    text-align: center;
+ }
+ 
+ image{
+     display: block;
+     margin: auto;
+     width: 250px;
+     height: 300px;
+ } 
 
-.image{
-    width: 250px;
-    height: 300px;
-    float: right;
-}
+ body{
+    background-color: rgb(161, 206, 223);
+    }
+
+    ul {
+        width: 8%;
+        margin: auto;
+        font-size: 0.5cm;
+    }
